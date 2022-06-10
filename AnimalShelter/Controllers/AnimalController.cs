@@ -50,7 +50,7 @@ namespace AnimalShelter.Controllers
 			await _db.SaveChangesAsync();
 			return CreatedAtAction(nameof(GetAnimal), new { id = animal.AnimalId }, animal);
 		}
-		
+
 		[HttpGet("{id}")]
 		//[ProducesResponseType(StatusCodes.Status200OK)]
 		//[ProducesDefaultResponseType]

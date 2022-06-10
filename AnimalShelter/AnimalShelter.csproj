@@ -32,10 +32,8 @@
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Microsoft.AspNetCore.Authentication.JwtBearer" />
     <None Remove="Microsoft.AspNetCore.Authentication.OpenIdConnect" />
-    <None Remove="ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Debug\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 </Project>
