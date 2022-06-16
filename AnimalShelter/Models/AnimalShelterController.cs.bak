@@ -1,0 +1,28 @@
+//using Microsoft.AspNetCore.Mvc;
+//using AnimalShelter.Attributes;
+
+//namespace AnimalShelter.Controllers.V2;
+
+//[ApiController]
+//[Route("v2/[controller]")]
+//[ApiKey]
+//public class AnimalShelterController : ControllerBase
+//{
+//    [HttpGet]
+//    public IEnumerable<Animal> Get()
+//    {
+//        return new Animal[0];
+//        //    {
+//        //    new Animal(1, "Bethoween", "Dog"),
+//        //    new Animal(2, "Gizmo", "Cat"),
+//        //    new Animal(3, "Panter", "Cat"),
+//        //    new Animal(4, "Spooky", "Dog")
+//        //};
+//    }
+
+//    [HttpPost]
+//    public IActionResult Create(Animal animal)
+//    {
+//        return Ok(new { message = $"Animal {animal.Name} has been created" });
+//    }
+//}

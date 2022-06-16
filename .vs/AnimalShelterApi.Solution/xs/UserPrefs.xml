@@ -1,4 +1,48 @@
-﻿<Properties StartupConfiguration="{E0DCCC0B-7C54-4953-970B-01EB76EB5E1F}|Default">
-  <MonoDevelop.Ide.ItemProperties.AnimalShelter FirstBuild="True" />
+﻿<Properties StartupConfiguration="{E0DCCC0B-7C54-4953-970B-01EB76EB5E1F}|AnimalShelter">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalShelter/Controllers/V1/AnimalShelterController.cs">
+    <Files>
+      <File FileName="AnimalShelter/Properties/launchSettings.json" Line="31" Column="2" />
+      <File FileName="AnimalShelter/appsettings.Development.json" Line="9" Column="2" />
+      <File FileName="AnimalShelter/AnimalShelter.csproj" Line="12" Column="1" />
+      <File FileName="AnimalShelter/appsettings.json" Line="9" Column="30" />
+      <File FileName="AnimalShelterApi.Solution.sln" Line="1" Column="1" />
+      <File FileName=".gitignore" Line="4" Column="19" />
+      <File FileName="AnimalShelter/shelterContext.cs" Line="20" Column="1" />
+      <File FileName="AnimalShelter/Animal.cs" Line="1" Column="1" />
+      <File FileName="AnimalShelter/Program.cs" Line="47" Column="63" />
+      <File FileName="AnimalShelter/Controllers/V1/AnimalShelterController.cs" Line="22" Column="17" />
+      <File FileName="AnimalShelter/Controllers/V2/AnimalShelterController.cs" Line="7" Column="29" />
+      <File FileName="AnimalShelter/Controllers/V1/AnimalShelterController.cs" Line="53" Column="14" />
+      <File FileName="AnimalShelter/Controllers/V2/AnimalShelterController.cs" Line="13" Column="39" />
+      <File FileName="AnimalShelter/Models/AnimalShelter.cs.bak" Line="1" Column="1" />
+      <File FileName="AnimalShelter/Models/AnimalShelterContext.cs.bak" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="AnimalShelterApi.Solution" expanded="True">
+            <Node name="AnimalShelter" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="V1" expanded="True" />
+                <Node name="V2" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.AnimalShelter PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

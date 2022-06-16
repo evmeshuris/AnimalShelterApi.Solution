@@ -1,0 +1,17 @@
+// namespace AnimalShelter;
+
+// public class Animal
+// {
+//     public int AnimalId { get; set; }
+
+//     public string Name { get; set; }
+
+//     public string Type { get; set; }
+
+//     public Animal(int animalId, string name, string type)
+//     {
+//         AnimalId = animalId;
+//         Name = name;
+//         Type = type;
+//     }
+// }
