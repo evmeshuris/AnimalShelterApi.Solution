@@ -23,9 +23,9 @@ This webpage was programmed using C#, ASP.NET & Entity. It is an API that allows
 ## Setup/Installation Requirements 🖊️
 
 * _Clone this repo: <https://github.com/evmeshuris/AnimalShelterApi.Solution.git>_
-* _Enter the new directory using the command ```cd AnimalShelterApi.Solution```
+* _Enter the new directory using the command ```cd AnimalShelterApi.Solution```_
 * _In the root directory, confirm there is a .gitignore file_
-* _add:
+* _add:_
 
 ```js
 */obj,
