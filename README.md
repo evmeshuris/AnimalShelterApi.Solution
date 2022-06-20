@@ -41,6 +41,8 @@ This webpage was programmed using C#, ASP.NET & Entity. It is an API that allows
 
 ## Swagger
 
+![Alt text](AnimalShelterApi.Solution/AnimalShelter/wwwroot/img/pic.png?raw=true "Title")
+
 * _You can select any of the drop downs (GET, GET{id}, POST, etc.)_
 * _From there, you can see what keys are available for GET methods_
 * _You can see the Request Body for Post/Put Methods_

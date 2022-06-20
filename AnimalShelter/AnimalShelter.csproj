@@ -36,6 +36,12 @@
     <Folder Include="Controllers\V1\" />
     <Folder Include="Conventions\" />
     <Folder Include="Controllers\V2\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\img\" />
   </ItemGroup>
 </Project>
 
