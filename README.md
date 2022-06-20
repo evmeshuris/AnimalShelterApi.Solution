@@ -41,18 +41,30 @@ This webpage was programmed using C#, ASP.NET & Entity. It is an API that allows
 
 ## Swagger
 
-![Alt text](AnimalShelterApi.Solution/AnimalShelter/wwwroot/img/pic.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/evmeshuris/AnimalShelterApi.Solution/main/AnimalShelter/wwwroot/img/pic.png)
 
-* _You can select any of the drop downs (GET, GET{id}, POST, etc.)_
+* _You can select any of the drop downs (GET, GET/{id}, POST, etc.)_
 * _From there, you can see what keys are available for GET methods_
 * _You can see the Request Body for Post/Put Methods_
 * _You can see what key is required for Delete Method_
 * _You can also click the "Try it out" button in the top right of the drop down, this will allow you to interact with the database directly_
-* _Make sure you are using V1 when you want to make changes to database_
+* _Versions_
+    * _V1_
+        * Description: Fully working api without authentication
+        * Example Usage: Use swagger as described above
+    * _V2_
+        * Description: Fully working api *with* authentication
+        * Example Usage: Use/modify the script below:
+
+```shell
+curl --location --request GET \
+'http://localhost:5240/v2/AnimalShelter' \
+--header 'X-API-Key: bingobongo123'
+```
 
 ## Known Bugs 🐛
 
-* _Not known_
+* _Please refer to the issues section of the repo_
 
 ## License
 
